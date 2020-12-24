@@ -1,4 +1,17 @@
-### Hi there 👋
+## Hey, my name is Sam. 👋
+
+### I'm a NodeJS Developer who is primarily focused on React & Discord Bots
+- 🔭 I’m currently working on **multiple discord bots**
+- 🌱 I’m currently learning **React**
+
+<br />
+
+## The Discord Experts - CEO
+- Automator Bot
+- Setup Bot
+- Hydro Bot
+
+https://www.thediscordexperts.com
 
 <!--
 **samennis1/samennis1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
