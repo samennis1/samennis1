@@ -18,7 +18,7 @@ Some of our projects include:
 <br />
 
 ## Stats
-<img src="https://github-readme-stats.vercel.app/api?username=samennis1&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=react">
+<img src="https://raw.githubusercontent.com/samennis1/stats/7d8711bbfe80029d10e81200cdde35dbccc79359/generated/overview.svg?token=AA7NDQC6QYX6VQ4Y4DHVZITA2PMK2">
 
 <!--
 **samennis1/samennis1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
