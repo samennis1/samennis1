@@ -9,11 +9,50 @@
 
 ## [The Discord Experts - CEO](https://www.thediscordexperts.com)
 #### I started The Discord Experts back in 2018 when I was just beginning my programming journey. 
-Now, with over **3 years** NodeJS experience, we have expanded into an **SaaS** company providing marketing and general usage products for our clients.
+Now, with over **4 years** NodeJS experience, we have expanded into an **SaaS** company providing marketing and general usage products for our clients.
+<br />
+<br />
 Some of our projects include:
-- *Automator Bot* (**15,000** servers with over **1.8m** total users)
-- *Setup Bot* (**21,000** servers with **over 600k** total users)
-- *Hydro Bot* (**5,000** servers with **over 300k** total users)
+- *Automator Bot* (**17,000** servers with over **2 million** total users)
+- *Setup Bot* (**24,000** servers with **over 600k** total users)
+- *Hydro Bot* (**7,000** servers with **over 500k** total users)
+
+<br />
+
+## [DRPCRD - Developer](https://www.drpcrd.com)
+#### DRPBOT (Gaming, Events & Giveaways)
+Created the **[DRPBOT](https://drpbot.com)** which processes games across the Discord platform. Allows users to win prizes for winning different types of games & events. An integrated brand system allows sponsored games to occur on bigger Discord servers. Seamlessly integrated with AirTable database system, providing a clean UI for non-developers to put data in or out.
+<br />
+Features Include:
+- Rock Paper Scissors game at 8pm daily
+- That or That game at 4pm daily
+- Fully synchronised with AirTable
+- Brand Prize integration for sponsored games
+- Ability to set custom prizes per-server
+- Custom queued games for brand-sponsored events
+
+#### MelBot (Influencer Management)
+Created the **[MelBot](https://www.drpcrd.com/fan-drops)** as a way for brands to track Instagram Influencers. 
+<br />
+Features Include:
+- Automatic Voucher Distribution
+- Tracking of Instagram posts
+- Fully synchronised with AirTable
+- Accept new users to the brand's rewards program
+
+<br />
+
+## [Pi - Developer](https://top.gg/bot/738549774931984466)
+#### Hired to create the Pi discord bot, now used on almost 1000 servers.
+Pi Counting bot is a Discord Bot designed with efficiency in mind. 
+The bot requires a fast-based, optimised codebase in order to process all of the counting requests from users across the servers.
+<br />
+Features Include:
+- Optimised caching system using Redis for faster data retrieval
+- Automatic high-efficiency leaderboard updating 
+- MySQL Integration for main data storage
+- Queue system for efficient number processing
+- Implements best practises from Discord.JS v13
 
 <br />
 
