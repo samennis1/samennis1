@@ -32,7 +32,7 @@ Features Include:
 - Custom queued games for brand-sponsored events
 
 #### MelBot (Influencer Management)
-Created the **[MelBot](https://www.drpcrd.com/fan-drops)** as a way for brands to track Instagram Influencers. 
+Created the **[MelBot](https://www.drpcrd.com/fan-drops)** as a way for brands to track Instagram Influencers. Allows brands to set up voucher distrubution and track fan's posts throughout a given month.
 <br />
 Features Include:
 - Automatic Voucher Distribution
