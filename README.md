@@ -13,9 +13,9 @@ Now, with over **4 years** NodeJS experience, we have expanded into an **SaaS** 
 <br />
 <br />
 Some of our projects include:
-- *Automator Bot* (**17,000** servers with over **2 million** total users)
-- *Setup Bot* (**24,000** servers with **over 600k** total users)
-- *Hydro Bot* (**7,000** servers with **over 500k** total users)
+- *Automator Bot* (**18,000** servers with over **2 million** total users)
+- *Setup Bot* (**27,000** servers with **over 600k** total users)
+- *Hydro Bot* (**8,000** servers with **over 500k** total users)
 
 <br />
 
