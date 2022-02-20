@@ -2,7 +2,7 @@
 
 ### I'm a NodeJS Developer who is focused on creating high-quality Discord Bots for private customers & businesses
 - 🔭 I’m currently working on **multiple discord bots, both custom & public**
-- 🌱 I’m currently expanding my knowledge on **React**
+- 🌱 I’m currently expanding my knowledge on **NextJS 12**
 - 📫 Looking to contact me for a project? [**Click Here**](mailto:info@thediscordexperts.com)
 
 <br />
