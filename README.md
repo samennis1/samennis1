@@ -42,6 +42,10 @@ Features Include:
 
 <br />
 
+## [OpenAI - Contributer](https://github.com/openai/evals)
+#### Contributed test data for GPT4
+[Contribution](https://github.com/openai/evals/pull/83)
+
 ## [Pi - Developer](https://top.gg/bot/738549774931984466)
 #### Hired to create the Pi discord bot, now used on almost 1000 servers.
 Pi Counting bot is a Discord Bot designed with efficiency in mind. 
