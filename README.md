@@ -9,7 +9,7 @@
 
 ## [The Discord Experts - CEO](https://www.thediscordexperts.com)
 #### I started The Discord Experts back in 2018 when I was just beginning my programming journey. 
-Now, with over **4 years** NodeJS experience, we have expanded into an **SaaS** company providing marketing and general usage products for our clients.
+Now, with over **5 years** NodeJS experience, we have expanded into an **SaaS** company providing marketing and general usage products for our clients.
 <br />
 <br />
 Some of our projects include:
