@@ -13,9 +13,9 @@ Now, with over **5 years** NodeJS experience, we have expanded into an **SaaS** 
 <br />
 <br />
 Some of our projects include:
-- *Automator Bot* (**18,000** servers with over **2 million** total users)
-- *Setup Bot* (**27,000** servers with **over 600k** total users)
-- *Hydro Bot* (**8,000** servers with **over 500k** total users)
+- *Automator Bot* (**60,000** servers with over **4 million** total users)
+- *Setup Bot* (**72,000** servers with **over 1 million** total users)
+- *Hydro Bot* (**20,000** servers with **over 500k** total users)
 
 <br />
 
@@ -61,7 +61,7 @@ Features Include:
 <br />
 
 ## Stats
-<img src="https://svgur.com/i/YRX.svg">
+<img src="https://raw.githubusercontent.com/samennis1/stats/edc85d6cec266f2b458af633c90aaaea729ba1e0/generated/overview.svg?token=AA7NDQHKYAYEZ2LLCCFU5D3HZZDCA">
 
 <!--
 **samennis1/samennis1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
